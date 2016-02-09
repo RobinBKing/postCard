@@ -14,5 +14,5 @@ The application can be installed by cloning the project from GitHub.
 Application: JavaScript, jQuery, HTML5, CSS3
 Testing: Mocha, Chai
 
-###Leagal:
+###Legal:
 Copyright (c) 2016 **Robin B. King**

@@ -3,3 +3,32 @@
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
+
+@font-face{
+  font-family: "handwriting";
+  src: url(journal.ttf) format('truetype');
+}
+
+@font-face{
+  font-family: "typewriter";
+
+  src : url(veteran_typewriter.ttf) format('truetype');
+}
+
+body {
+  font: 21px sans-sarif;
+  padding: 2em;
+  margin: 0;
+  background: #222;
+}
+
+form {
+  position: relative;
+  width: 740px;
+  height: 498px;
+  margin: 0 auto;
+  background: #fff url(../img/background.jpg);
+}
+h1 {
+
+}
